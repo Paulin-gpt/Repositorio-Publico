@@ -1,1 +1,2 @@
-Arquivo teste de upload em repositório público
+1-Arquivo teste de upload em repositório público.
+2-Editando diretamente pelo GitHub o arquivo de teste agora, e realizando o commit.
